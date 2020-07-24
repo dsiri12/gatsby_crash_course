@@ -1,0 +1,41 @@
+{
+    "data": {
+      "allMarkdownRemark": {
+        "edges": [
+          {
+            "node": {
+              "id": "3d643dc1-b2c9-505e-9fba-b9a131be0db1",
+              "frontmatter": {
+                "path": "/post-one",
+                "title": "My First Gatsby Post",
+                "date": "2020-07-24",
+                "author": "Damien Siri"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "7fa4a09b-39db-5454-9402-c055aca62043",
+              "frontmatter": {
+                "path": "/post-three",
+                "title": "My Third Gatsby Post",
+                "date": "2020-07-26",
+                "author": "Damien Siri"
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "7db4af7d-bc1e-5e2f-9baa-0c76a18b31ae",
+              "frontmatter": {
+                "path": "/post-two",
+                "title": "My Second Gatsby Post",
+                "date": "2020-07-25",
+                "author": "Damien Siri"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
